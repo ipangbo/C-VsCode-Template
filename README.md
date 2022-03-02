@@ -3,9 +3,9 @@
 
 使用Linux环境访问，VSCode编译
 
-##编译
+## 编译
 
-###tasks.json
+### tasks.json
 ```json
 {
 	"version": "2.0.0",
@@ -37,7 +37,7 @@
 }
 ```
 
-###launch.json
+### launch.json
 ```json
 {
     // Use IntelliSense to learn about possible attributes.
