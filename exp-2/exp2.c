@@ -2,5 +2,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("README\n");
+    printf("This is exp2. \n");
+    return 0;
 }
