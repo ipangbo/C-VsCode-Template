@@ -1,9 +1,15 @@
 # compiling-methods-lab
 编译原理实验课
 
-使用Linux环境访问，VSCode编译
+## 使用Linux环境访问，VSCode编译
+```bash
+git clone git@github.com:ipangbo/compiling-methods-lab.git
+cd compiling-methods-lab
+mkdir build && mkdir build/exp-1 && mkdir build/exp-2 && mkdir .vscode
+touch .vscode/tasks.json && touch .vscode/launch.json
+```
 
-## 编译与调试 Compiling and Debugging
+## 编译与调试 Build and Debugging
 
 ### tasks.json
 ```json
