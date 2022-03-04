@@ -1,7 +1,9 @@
 # compiling-methods-lab
 编译原理实验课
 
-## 使用Linux环境访问，VSCode编译
+## 安装
+
+使用Linux环境访问，VSCode编译
 ```bash
 git clone git@github.com:ipangbo/compiling-methods-lab.git
 cd compiling-methods-lab
